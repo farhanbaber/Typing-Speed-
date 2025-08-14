@@ -1,0 +1,40 @@
+|| Typing Speed Checker ||
+
+A responsive and lightweight web application to measure typing speed and accuracy. Built with HTML | CSS | and JavaScript | and styled with Google Fonts for a clean | modern interface.
+
+|| Features ||  
+| Real-time typing speed calculation (Words Per Minute)  
+| Accuracy percentage tracking  
+| Random text generation for testing  
+| Responsive design for mobile and desktop  
+| Minimalistic UI with Google Fonts integration  
+
+|| Demo
+| Insert link to your live demo.......
+
+|| Technologies Used ||
+| HTML5  
+| CSS3 (Responsive design)  
+| JavaScript (Vanilla JS)  
+| Google Fonts  
+
+
+ || Installation & Usage ||
+| 1. Clone the repository:  
+| `git clone https://github.com/your-username/farhanbaber.git`  
+| 2. Open `index.html` in your browser.  
+| 3. Start typing to check your speed and accuracy.
+
+||  File Structure
+| index.html – Main application structure  
+| style.css – Styling and layout  
+| script.js – Application logic  
+| /fonts – Google Fonts (linked via CDN)
+
+||  Contributing
+| Contributions, issues, and feature requests are welcome!  
+| Feel free to fork the repository and submit pull requests.
+
+|| License
+| This project is licensed under the MIT License.  
+| See the [LICENSE](LICENSE) file for more details.
